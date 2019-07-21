@@ -1,4 +1,8 @@
-###How to use
+## React Pics App
+Uses React and unsplash api to retrieve searched images.
+
+
+### How to use the app.
 
 1. Clone the repo.
 
