@@ -20,6 +20,8 @@ class App extends React.Component{
     render(){
         return(
             <div className="ui container" style={{marginTop : '10px'}}>
+                <h1>React Pics</h1>
+                <h3>A simple React app</h3>
                 <SearchBar onSearchSubmit={this.onSearchSubmit}/>
                 <ImageList images={this.state.images}/>
             </div>
